@@ -3,6 +3,9 @@ public class Player {
     String name;
     String address;
     String cardNumber;
+    String yet;
+    int age;
+    
 
     public Player(String surname, String name, String address, String cardNumber) {
         this.surname = surname;
